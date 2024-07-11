@@ -26,5 +26,5 @@ When I'm not coding, I'm probably:
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [Saad Khawaja](https://www.linkedin.com/in/saad-khawaja-053ab815)
-- **Twitter**: [@SaadKhawaja](https://twitter.com/saadskhawaja)
+- **Twitter/X**: [@SaadKhawaja](https://twitter.com/saadskhawaja)
 - **Email**: hi@saadkhawaja.com
